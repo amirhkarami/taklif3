@@ -1,0 +1,22 @@
+dl{
+    border: 5px none;
+    height: auto;
+    width: 600px;
+    color: white;
+    background-color: black;
+    position:relative;
+    top:100px;
+    left:-300px;
+    float:right;
+}
+#box{
+    background-color: rgb(39, 38, 38);
+    border: 10px solid;
+    width: 300px;
+    padding: 50px;
+    color: darkgreen;
+    
+}
+body{
+    background-color: rgb(39, 38, 38);
+}
